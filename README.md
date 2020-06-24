@@ -14,7 +14,7 @@ A City School District has given me the task of analyzing High School funding an
       - School Size
       - School Type
 3. Lastly the following questions were to be answered in regards to the analysis:
-     - How does replacing the ninth-grade scores affect each DataFrame's analysis.
+     - How does replacing the ninth-grade scores affect each DataFrame's analysis?
 
 ## Resources
 Data Sources: schools_complete.csv, students_complete.csv
